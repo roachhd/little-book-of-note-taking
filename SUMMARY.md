@@ -1,6 +1,10 @@
 # Table of Contents
 
 * [Effective Note-taking Strategies](strategies/README.md)
+ * [The Cornwall Method](strategies/cornwall.md)
+ * [Split Page Method](strategies/splitpage.md)
+ * [Visual Aids](strategies/visualaids.md)
+ * [Symbols & Abbreviations](strategies/symbols.md)
 * [Types of Study Notes](types/README.md)
 * [How to Create Summary Notes](summary/README.md)
 * [Expert Note-taking Advice](expert/README.md)
