@@ -1,7 +1,7 @@
 # Table of Contents
 
 * [Effective Note-taking Strategies](strategies/README.md)
- * [The Cornwall Method](strategies/cornwall.md)
+ * [The Cornell Method](strategies/cornell.md)
  * [Split Page Method](strategies/splitpage.md)
  * [Visual Aids](strategies/visualaids.md)
  * [Symbols & Abbreviations](strategies/symbols.md)
